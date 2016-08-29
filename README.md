@@ -7,10 +7,10 @@ Supports minimal [POSIX functionality](http://pubs.opengroup.org/onlinepubs/9699
 
 See [releases page](https://github.com/davidmz/env/releases).
 
-## Build
+## Get & build
 
 ```
-go build gopkg.in/davidmz/env.v1
+go get https://github.com/davidmz/env
 ```
 
 ## Usage example

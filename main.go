@@ -1,4 +1,4 @@
-package main // import "gopkg.in/davidmz/env.v1"
+package main
 
 import (
 	"fmt"
